@@ -1,0 +1,11 @@
+{
+  "remoteName": "origin",
+  "projects": [
+    {
+      "id": "prj_Ce5p8Ouprs3OrmWCEyKEI9De6mH6",
+      "name": "hospital",
+      "directory": ".",
+      "orgId": "team_FD0mC85v4PjeIUDeJllgrStg"
+    }
+  ]
+}
